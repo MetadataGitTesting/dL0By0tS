@@ -1,0 +1,49 @@
+name: bev.barrows
+description: Expanded
+version: 0.0.1
+author: 6yhqdbnr.1kizmnat@at4trrcg.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: bevbarrows
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2024-10-24 20:32:38'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-10-24 20:32:38'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-10-24T20:32:38.987726Z'
+  name: plibMaven
+  version: 8.5.0-SNAPSHOT
+  id: '689761476'
+  createdAt: '2024-10-24T20:32:38.987726Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
